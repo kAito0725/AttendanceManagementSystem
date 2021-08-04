@@ -1,4 +1,3 @@
-import React from 'react';
 import Navbar from '../Navbar/Navbar';
 import './Contact.css';
 import * as AiIcons from "react-icons/ai";
