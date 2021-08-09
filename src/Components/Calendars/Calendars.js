@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import Calendar from 'react-calendar';
 import { db } from '../Firebase/Firebase';
 import 'react-calendar/dist/Calendar.css';
